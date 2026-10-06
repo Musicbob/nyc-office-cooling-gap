@@ -2,7 +2,7 @@
 
 **Climate sensitivity of 836 NYC office buildings using the ASHRAE Guideline 14 three-parameter cooling model (3P-C).**
 
-🔗 **Interactive case study:** _[add the link to your website page here]_
+🔗 **Interactive case study:** https://robertoconstenla.netlify.app/proyectos/nyc-energia/
 
 I combined public monthly electricity data (NYC Local Law 84) with 2023 historical temperatures and fitted a change-point cooling model to every office building. The result is a measure of how heat-sensitive each building is compared with similar-size peers, and what that difference costs per year.
 
